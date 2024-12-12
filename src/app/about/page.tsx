@@ -58,14 +58,15 @@ export default function About() {
             animate={{ opacity: 1 }}
             transition={{ duration: 0.5, delay: 0.4 }}
           >
-            <ul>
-                <li>Professionalism: Our team of photographers is dedicated to providing top-notch service and delivering high-quality images.</li>
-                <li>Creativity: We bring a creative approach to every project, ensuring that your photos are unique and captivating.</li>
-                <li>Experience: With years of experience in the industry, we have the expertise to handle any photography needs you may have.</li>
-                <li>Personalized Service: We work closely with our clients to understand their vision and bring it to life through our photography.</li>
-            </ul>
-            <br /><br />
             <p>At LensCraft Studio, we don't just take pictures; we capture memories. Let us help you preserve your precious moments for a lifetime.</p>
+            <br />
+            <p>- Professionalism: Our team of photographers is dedicated to providing top-notch service and delivering high-quality images.</p>
+            <br />
+            <p>- Creativity: We bring a creative approach to every project, ensuring that your photos are unique and captivating.</p>
+            <br />
+            <p>- Experience: With years of experience in the industry, we have the expertise to handle any photography needs you may have.</p>
+            <br />   
+            <p>- Personalized Service: We work closely with our clients to understand their vision and bring it to life through our photography.</p>
           </motion.p>
         </section>
       </div>
