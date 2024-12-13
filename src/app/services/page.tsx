@@ -58,12 +58,12 @@ export default function Services() {
           <h2 className="text-2xl font-semibold mb-4">Testimonials</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div className="bg-zinc-800 rounded-lg p-6">
-              <p className="mb-4">"The team at Shutter Bliss Photography captured every special moment of our wedding day beautifully. The photos are stunning, and we can't stop looking at them!"</p>
+              <p className="mb-4">{"The team at Shutter Bliss Photography captured every special moment of our wedding day beautifully. The photos are stunning, and we can&apos;t stop looking at them!"}</p>
               <p className="font-semibold"> - Dino & Hanna</p>
             </div>
             <div className="bg-zinc-800 rounded-lg p-6">
-              <p className="mb-4">"Their creative approach to our corporate headshots was refreshing. The photos came out great, and the entire team enjoyed the experience."</p>
-              <p className="font-semibold">- Emily W, HR Manager at Gembiraloka Zoo</p>
+              <p className="mb-4">{"Their creative approach to our corporate headshots was refreshing. The photos came out great, and the entire team enjoyed the experience."}</p>
+              <p className="font-semibold">{"- Emily W, HR Manager at Gembiraloka Zoo"}</p>
             </div>
           </div>
         </motion.div>

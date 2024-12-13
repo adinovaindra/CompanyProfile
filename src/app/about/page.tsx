@@ -58,7 +58,7 @@ export default function About() {
             animate={{ opacity: 1 }}
             transition={{ duration: 0.5, delay: 0.4 }}
           ><>
-            At LensCraft Studio, we don't just take pictures; we capture memories. Let us help you preserve your precious moments for a lifetime.
+            At LensCraft Studio, we don&apos;t just take pictures; we capture memories. Let us help you preserve your precious moments for a lifetime.
             <br /><br />
             - Professionalism: Our team of photographers is dedicated to providing top-notch service and delivering high-quality images.
             <br /><br />

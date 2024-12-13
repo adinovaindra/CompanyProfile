@@ -52,7 +52,7 @@ export default function Home() {
           <div className="flex flex-wrap -mx-4">
             <div className="w-full md:w-1/2 px-4 mb-8">
               <h3 className="text-xl font-semibold mb-4">Our Mission : Capturing Timeless Moments</h3>
-              <p>To create lasting memories by capturing life's most precious moments with artistry and excellence.</p>
+              <p>{"To create lasting memories by capturing life's most precious moments with artistry and excellence."}</p>
             </div>
             <div className="w-full md:w-1/2 px-4 mb-8">
               <h3 className="text-xl font-semibold mb-4">Our Vision</h3>
@@ -82,7 +82,7 @@ export default function Home() {
             className="bg-zinc-700 rounded-lg shadow-md p-6"
           >
             <h2 className="text-2xl font-semibold mb-4">Event Photography</h2>
-            <p className="mb-4">Whether it's a wedding, corporate event, or birthday party, we document every moment so you can relive the memories.</p>
+            <p className="mb-4">{"Whether it's a wedding, corporate event, or birthday party, we document every moment so you can relive the memories."}</p>
           </motion.div>
 
           <motion.div
@@ -144,4 +144,3 @@ export default function Home() {
     </div>
   )
 }
-
